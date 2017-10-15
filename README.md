@@ -1,6 +1,6 @@
 # notes-service
 
-FIXME: description
+Basic compojure app
 
 ## Installation
 
