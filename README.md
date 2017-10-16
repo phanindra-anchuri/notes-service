@@ -1,6 +1,6 @@
 # notes-service
 
-Basic compojure app
+Basic compojure app for notes service
 
 ## Installation
 
